@@ -3,7 +3,7 @@ A web app that allows users to draw pixel art on a customizable canvas. The user
 
 ## Instructions
 
-In order to be sucessful with this project, you have to know how to:
+In order to be successful with this project, you have to know how to:
 
 - Define variables with const and let
 - Access the DOM using methods of the document object
