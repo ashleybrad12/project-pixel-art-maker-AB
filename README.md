@@ -1,16 +1,12 @@
-# Pixel Art Maker Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+# Pixel Art Maker 
+A web app that allows users to draw pixel art on a customizable canvas. The user can make any grid size and add colors to the blocks. The user also can clear the grid by clicking the submit button twice.
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+In order to be sucessful with this project, you have to know how to:
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+- Define variables with const and let
+- Access the DOM using methods of the document object
+- Declare functions and attaching them to DOM objects as event listeners
+- Write nested loops and using loop variables
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
